@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BBDD_Volley</string>
+    <string name="ingrese_fabricante">Ingrese fabricante</string>
+    <string name="ingrese_c_digo">Ingrese código</string>
+    <string name="ingreso_producto">Ingreso producto</string>
+    <string name="ingrese_precio">Ingrese precio</string>
+    <string name="buscar">Buscar</string>
+    <string name="agregar">Agregar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="registro_de_productos">Registro de productos</string>
+</resources>
